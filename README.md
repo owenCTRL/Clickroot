@@ -8,11 +8,11 @@
 
 <br />
 <p align="center">
-  <img src="public/clickroot.png" alt="Clickroot Logo" width="100" />
+  <img src="public/assets/clickroot.png" alt="Clickroot Logo" width="100" />
 </p>
 <h3 align="center">Clickroot</h3>
 <p align="center">
-  <strong>Mission-critical, by design.</strong><br />
+  <strong>Mission-Critical, By Design.</strong><br />
   Software that holds under pressure. Built to scale with precision.
   <br /><br />
 </p>
@@ -31,20 +31,20 @@ Inspired by defense systems. Deployed in the public domain.
 
 Clickroot builds tools that power high-stakes digital operations:
 
-* **Observability Systems** — telemetry, alerting, and operator-first UIs
-* **Infrastructure Engines** — scripts, services, and automation built to endure
-* **Front-End Interfaces** — real-time, no-bloat tools for decisionmakers
-* **DevOps Utilities** — resilience-focused deploy and testing pipelines
+* **Observability Systems** — Telemetry, alerting, and operator-first UIs
+* **Infrastructure Engines** — Scripts, services, and automation built to endure
+* **Front-End Interfaces** — Real-time, no-bloat tools for decisionmakers
+* **DevOps Utilities** — Resilience-focused deploy and testing pipelines
 
-Our priority: signal > noise. Function > fashion. Reliability > rhetoric.
+Our priority: Signal > noise. Function > fashion. Reliability > rhetoric.
 
 <br />
 
 ## 🔍 Our Philosophy
 
-* 🧠 **Deterministic Architecture** — predictable behavior, no surprises
-* 🛠️ **Minimalist Execution** — fewer moving parts, less failure
-* ⛓️ **Operational Transparency** — what’s running, where, and why
+* 🧠 **Deterministic Architecture** — Predictable behavior, no surprises
+* 🛠️ **Minimalist Execution** — Fewer moving parts, less failure
+* ⛓️ **Operational Transparency** — What’s running, where, and why
 
 Clickroot is software for people who don’t need another tool —
 they need **the one that works every time**.
@@ -53,8 +53,7 @@ they need **the one that works every time**.
 
 ## 📡 Contact
 
-* GitHub: [@owenCTRL](https://github.com/owenCTRL)
-* Twitter: [@OTTRCo](https://twitter.com/ottrco)
+* X: [@Clickroot](https://x.com/clickroot)
 
 <br />
 
