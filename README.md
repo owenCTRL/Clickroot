@@ -53,7 +53,7 @@ they need **the one that works every time**.
 
 ## 📡 Contact
 
-* X: [@Clickroot](https://x.com/clickroot)
+[@Clickroot](https://x.com/clickroot)
 
 <br />
 
